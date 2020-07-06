@@ -1,2 +1,2 @@
 # Local server
-Local server for application on motion recognition
+Local server for request processing.
